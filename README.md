@@ -56,16 +56,16 @@ Libraries:
 4.🎉 A PDF file (Report.pdf) will be generated in the root directory.
 
 ## 📁 Project Structure
-.
-├── online_retail/
-|   ├── data/
-│   |   └── data.csv
-│   ├── data_transformation.py
-│   ├── image_generator.py
-│   └── report_generator.py
-├── main.py
-├── requirements.txt
-└── README.md
+    .
+    ├── online_retail/
+    |   ├── data/
+    │   |   └── data.csv
+    │   ├── data_transformation.py
+    │   ├── image_generator.py
+    │   └── report_generator.py
+    ├── main.py
+    ├── requirements.txt
+    └── README.md
 
 ## 📌 Example Insights
 
