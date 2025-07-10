@@ -1,0 +1,6 @@
+pandas
+seaborn
+reportlab
+pillow
+openpyxl
+missingno
