@@ -1,38 +1,38 @@
-🛍️ Online Retail Report Generator
+## 🛍️ Online Retail Report Generator
 
 Automatically generate insightful PDF reports from the UCI Online Retail Dataset, complete with data summaries, visualizations, and analysis.
 
-📌 Features
+## 📌 Features
 
-    📄 Generates a PDF report with:
+📄 Generates a PDF report with:
 
-        Dataset overview and structure
+    Dataset overview and structure
 
-        Summary of missing values
+    Summary of missing values
 
-        Key metrics and bullet points
+    Key metrics and bullet points
 
-        Auto-generated visualizations (charts, trends, correlations)
+    Auto-generated visualizations (charts, trends, correlations)
 
-        Insightful written analysis for each section
+    Insightful written analysis for each section
 
-    📊 Charts include:
+## 📊 Charts include:
 
-        Top countries by transaction volume
+    Top countries by transaction volume
 
-        Quantity sold by year and month
+    Quantity sold by year and month
 
-        Correlation between quantity and unit price
+    Correlation between quantity and unit price
 
-        Highest purchasing customers
+    Highest purchasing customers
 
-        Transactions by weekday & time of day
+    Transactions by weekday & time of day
 
-    🧼 Handles null values, filters invalid data (e.g. negative quantity or unit price)
+    🧼Handles null values, filters invalid data (e.g. negative quantity or unit price)
 
-    🧠 Modular design using DataTransformation and ImageGenerator classes
+    🧠Modular design using DataTransformation and ImageGenerator classes
 
-🔧 Requirements
+## 🔧 Requirements
 
     Python 3.8+
 
@@ -49,7 +49,7 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 Install dependencies:
 ''' pip install -r requirements.txt '''
 
-🚀 How to Run
+## 🚀 How to Run
 
     1. Clone this repo
     2. Run the main.py 
@@ -57,28 +57,28 @@ Install dependencies:
     3. Choose the report level
     4.🎉 A PDF file (Report.pdf) will be generated in the root directory.
 
-📁 Project Structure
-.
-├── online_retail/
-|   ├── data/
-│       └── data.csv
-│   ├── data_transformation.py
-│   ├── image_generator.py
-│   └── report_generator.py
-├── main.py
-├── requirements.txt
-└── README.md
+## 📁 Project Structure
+    .
+    ├── online_retail/
+    |   ├── data/
+    │       └── data.csv
+    │   ├── data_transformation.py
+    │   ├── image_generator.py
+    │   └── report_generator.py
+    ├── main.py
+    ├── requirements.txt
+    └── README.md
 
-📌 Example Insights
+## 📌 Example Insights
 
-    Most transactions occurred in 2011, especially between September and November
+Most transactions occurred in 2011, especially between September and November
 
-    Peak purchases happened on Thursday afternoons
+Peak purchases happened on Thursday afternoons
 
-    Top purchasing customers and countries identified
+Top purchasing customers and countries identified
 
-    Negative correlation between quantity and unit price in peak months
+Negative correlation between quantity and unit price in peak months
 
-📬 Feedback & Contributions
+## 📬 Feedback & Contributions
 
 Feel free to open issues, suggest improvements.
