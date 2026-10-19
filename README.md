@@ -50,9 +50,9 @@ Libraries:
 
 ## 🚀 How to Run
 
-1. Clone this repo
-2. Run the main.py 
-3. Choose the report level
+1. Clone this repo.
+2. Run the main.py.
+3. Choose the report level.
 4.🎉 A PDF file (Report.pdf) will be generated in the root directory.
 
 ## 📁 Project Structure

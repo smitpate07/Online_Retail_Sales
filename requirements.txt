@@ -4,3 +4,6 @@ reportlab
 pillow
 openpyxl
 missingno
+psycopg2-binary
+dotenv
+sqlalchemy
