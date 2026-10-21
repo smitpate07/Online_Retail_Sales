@@ -73,9 +73,9 @@ Most transactions occurred in 2011, especially between September and November.
 
 Peak purchases happened on Thursday afternoons.
 
-Top purchasing customers and countries identified
+Top purchasing customers and countries identified.
 
-Negative correlation between quantity and unit price in peak months
+Negative correlation between quantity and unit price in peak months.
 
 ## 📬 Feedback & Contributions
 
