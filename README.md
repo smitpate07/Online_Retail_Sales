@@ -28,9 +28,9 @@ Highest purchasing customers
 
 Transactions by weekday & time of day
 
-🧼Handles null values, filters invalid data (e.g. negative quantity or unit price)
+🧼Handles null values, filters invalid data (e.g. negative quantity or unit price).
 
-🧠Modular design using DataTransformation and ImageGenerator classes
+🧠Modular design using DataTransformation and ImageGenerator classes.
 
 ## 🔧 Requirements
 
