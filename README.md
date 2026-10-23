@@ -18,15 +18,15 @@ Insightful written analysis for each section
 
 ## 📊 Charts include:
 
-Top countries by transaction volume
+Top countries by transaction volume.
 
-Quantity sold by year and month
+Quantity sold by year and month.
 
-Correlation between quantity and unit price
+Correlation between quantity and unit price.
 
-Highest purchasing customers
+Highest purchasing customers.
 
-Transactions by weekday & time of day
+Transactions by weekday & time of day.
 
 🧼Handles null values, filters invalid data (e.g. negative quantity or unit price).
 
