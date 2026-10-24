@@ -12,9 +12,9 @@ Summary of missing values
 
 Key metrics and bullet points
 
-Auto-generated visualizations (charts, trends, correlations)
+Auto-generated visualizations (charts, trends, correlations).
 
-Insightful written analysis for each section
+Insightful written analysis for each section.
 
 ## 📊 Charts include:
 
