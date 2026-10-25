@@ -10,7 +10,7 @@ Dataset overview and structure
 
 Summary of missing values
 
-Key metrics and bullet points
+Key metrics and bullet points.
 
 Auto-generated visualizations (charts, trends, correlations).
 
