@@ -8,7 +8,7 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 
 Dataset overview and structure
 
-Summary of missing values
+Summary of missing values.
 
 Key metrics and bullet points.
 
