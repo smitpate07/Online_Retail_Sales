@@ -6,7 +6,7 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 
 📄 Generates a PDF report with:
 
-Dataset overview and structure
+Dataset overview and structure.
 
 Summary of missing values.
 
