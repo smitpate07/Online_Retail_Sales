@@ -37,16 +37,10 @@ Transactions by weekday & time of day.
 Python 3.8+
 
 Libraries:
-
     pandas
-
     matplotlib
-
     seaborn
-
     reportlab
-
-
 
 ## 🚀 How to Run
 
