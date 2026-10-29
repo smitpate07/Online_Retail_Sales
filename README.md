@@ -70,7 +70,3 @@ Peak purchases happened on Thursday afternoons.
 Top purchasing customers and countries identified.
 
 Negative correlation between quantity and unit price in peak months.
-
-## 📬 Feedback & Contributions
-
-Feel free to open issues, suggest improvements.
