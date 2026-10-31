@@ -63,7 +63,7 @@ Libraries:
 
 ## 📌 Example Insights
 
-Most transactions occurred in 2011, especially between September and November.
+- Most transactions occurred in 2011, especially between September and November.
 
 Peak purchases happened on Thursday afternoons.
 
