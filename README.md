@@ -69,4 +69,4 @@ Libraries:
 
 - Top purchasing customers and countries identified.
 
-Negative correlation between quantity and unit price in peak months.
+- Negative correlation between quantity and unit price in peak months.
