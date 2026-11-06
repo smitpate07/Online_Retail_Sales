@@ -61,7 +61,7 @@ Libraries:
     ├── requirements.txt
     └── README.md
 
-## 📌 Insights
+## 📌 key Insights
 
 - Most transactions occurred in 2011, especially between September and November.
 
