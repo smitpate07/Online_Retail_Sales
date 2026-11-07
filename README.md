@@ -4,17 +4,17 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 
 ## 📌 Features
 
-📄 Generates a PDF report with:
+#### 📄 Generates a PDF report with:
 
-Dataset overview and structure.
+- Dataset overview and structure.
 
-Summary of missing values.
+- Summary of missing values.
 
-Key metrics and bullet points.
+- Key metrics and bullet points.
 
-Auto-generated visualizations (charts, trends, correlations).
+- Auto-generated visualizations (charts, trends, correlations).
 
-Insightful written analysis for each section.
+- Insightful written analysis for each section.
 
 ## 📊 Charts include:
 
