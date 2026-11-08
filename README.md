@@ -18,9 +18,9 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 
 ## 📊 Charts include:
 
-Top countries by transaction volume.
+- Top countries by transaction volume.
 
-Quantity sold by year and month.
+- Quantity sold by year and month.
 
 Correlation between quantity and unit price.
 
