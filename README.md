@@ -22,9 +22,9 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 
 - Quantity sold by year and month.
 
-Correlation between quantity and unit price.
+- Correlation between quantity and unit price.
 
-Highest purchasing customers.
+- Highest purchasing customers.
 
 Transactions by weekday & time of day.
 
