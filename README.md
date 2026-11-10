@@ -26,7 +26,7 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 
 - Highest purchasing customers.
 
-Transactions by weekday & time of day.
+- Transactions by weekday & time of day.
 
 🧼Handles null values, filters invalid data (e.g. negative quantity or unit price).
 
