@@ -30,7 +30,7 @@ Automatically generate insightful PDF reports from the UCI Online Retail Dataset
 
 - 🧼Handles null values, filters invalid data (e.g. negative quantity or unit price).
 
-🧠Modular design using DataTransformation and ImageGenerator classes.
+- 🧠Modular design using DataTransformation and ImageGenerator classes.
 
 ## 🔧 Requirements
 
